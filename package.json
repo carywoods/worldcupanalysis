@@ -1,0 +1,29 @@
+{
+  "name": "fifa-2026-affordability-crisis",
+  "version": "1.0.0",
+  "description": "FIFA World Cup 2026 ticket affordability analysis - exposing the supporter tier vs. reality gap",
+  "private": true,
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.2.1",
+    "vite": "^5.0.0"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "fifa",
+    "world-cup",
+    "2026",
+    "affordability",
+    "ticket-prices",
+    "data-visualization"
+  ],
+  "author": "Dr. Cary Woods",
+  "license": "MIT"
+}
