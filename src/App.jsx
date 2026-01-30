@@ -496,7 +496,7 @@ export default function WorldCupAffordabilityAnalysis() {
           <p>Sources: BLS, Statistics Canada, INEGI, FIFA Official Pricing</p>
           <p>Analysis Date: January 2026</p>
           <p>Dr. Cary Woods</p>
-          <p><a hred="https://harnessai.net">Harness AI</a></p>
+          <p><a href="https://harnessai.net">Harness AI</a></p>
         </footer>
 
       </div>
