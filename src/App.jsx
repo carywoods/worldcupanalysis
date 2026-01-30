@@ -495,6 +495,8 @@ export default function WorldCupAffordabilityAnalysis() {
           <p>Data Analysis: FIFA World Cup 2026 Affordability Crisis</p>
           <p>Sources: BLS, Statistics Canada, INEGI, FIFA Official Pricing</p>
           <p>Analysis Date: January 2026</p>
+          <p>Dr. Cary Woods</p>
+          <p><a hred="https://harnessai.net">Harness AI</a></p>
         </footer>
 
       </div>
